@@ -55,7 +55,7 @@ require (
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8
 	gomodules.xyz/jsonpatch/v2 v2.1.0
-	google.golang.org/grpc v1.40.0
+	google.golang.org/grpc v1.83.1
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.23.17
 	k8s.io/apiextensions-apiserver v0.23.17
